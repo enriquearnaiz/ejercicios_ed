@@ -1,0 +1,22 @@
+/* Selector universal */
+*{
+	color: white;
+	background-color: red;
+}
+
+/* Texto de arriba a la derecha */
+#finales {
+	display: flex;
+    justify-content: flex-end;
+}
+
+/* Para centrar los elementos (texto e imágenes) */
+.centrado {
+	text-align: center;
+}
+
+/* Para el footer */
+iframe {
+	border: 0px;
+	width: 100%;
+}
