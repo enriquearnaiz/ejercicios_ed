@@ -1,1 +1,2 @@
-Nuevo fichero en master
+Archivo nuevo línea 1
+Línea 2
